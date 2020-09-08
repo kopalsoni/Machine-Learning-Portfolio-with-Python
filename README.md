@@ -5,7 +5,7 @@ This repository contains my Machine Learning Projects in Python programming lang
 
 <b>E-mail: </b>soni.kopal@gmail.com
 
-<b>LinkedIn: </b>https://www.linkedin.com/in/kopal-soni-72992810b/
+<b>LinkedIn: </b>https://www.linkedin.com/in/kopal-soni/
 
 ***
 ### Contents:
